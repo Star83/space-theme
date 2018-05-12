@@ -1,0 +1,53 @@
+//META{"name":"space theme","description":"let's go to space","author":"Reuben","version":"1.0"}*//{}
+	:root{
+	    --background-image: url(https://media.wired.com/photos/59268c5dcfe0d93c474309a2/master/w_2000,c_limit/BSP_054.jpg);
+	    --background-brightness: 0.6;}
+	.app {
+	background: var(--background-image);background-position-y: -300px;;background-size: cover;}
+	.ui-standard-sidebar-view .sidebar-region {background: rgba(0,0,0,0) !important;}
+	.layers-3iHuyZ, .layer-3QrUeG, .container-PNkimc, .typing-2GQL18 {background: rgba(0,0,0,0) !important;}
+	.layers-3iHuyZ{background: rgba(0,0,0,var(--background-brightness)) !important;}
+	.content .flex-spacer{background-color: rgba(0,0,0,0) !important;}
+	.content-region{background-color: rgba(0,0,0,0) !important;}
+	.headerBar-UHpsPw{background-color: rgba(0,0,0,0) !important;}
+	.noChannel-2EQ0a9{background-color: rgba(0,0,0,0) !important;}
+	.channels-Ie2l6A{background-color: rgba(0,0,0,0) !important;}
+	.title-qAcLxz{background-color: rgba(0,0,0,0) !important;}
+	.container-2Thooq{background-color: rgba(0,0,0,0) !important;}
+	.container-PNkimc{background-color: rgba(0,0,0,0) !important;}
+	.container-GLDMJI{background-color: rgba(0,0,0,0) !important;}
+	.guilds-wrapper{background-color: rgba(0,0,0,0) !important;}
+	.chat form.typing-2GQL18{background-color: rgba(0,0,0,0) !important;}
+	.chat form{background-color: rgba(0,0,0,0) !important;}
+	.chat>.content{background-color: rgba(0,0,0,0) !important;}
+	.chat{background-color:rgba(0,0,0,0)!important;}
+	.chat .messages{background-color: rgba(0,0,0,0) !important;}
+	.friends-table, .messages-wrapper{background-color: rgba(0,0,0,0) !important;}
+	.members-1998pB{background-color: rgba(0,0,0,0) !important;}
+	#friends{background-color: rgba(0,0,0,0) !important;}
+	.title-3qD0b-{background-color: rgba(0,0,0,0) !important;}
+	.ui-standard-sidebar-view{background-color: rgba(0,0,0,0) !important;}
+	.ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller,
+	.ui-standard-sidebar-view .content-region .content-region-scroller-wrap{background: rgba(0,0,0,0.4);}
+	.container-2lgZY8{background-color: rgba(0,0,0,0) !important;}
+	.contentBase-11jeVK {
+    color: #43b581;
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 16px;
+    max-width: 600px;
+    text-transform: uppercase;
+}
+.guilds-wrapper .guilds .friends-icon {
+    background-image: url(https://cdn.dribbble.com/users/450343/screenshots/1502658/rocket-ship.gif);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: 50px 50px;
+    height: 50px;
+    width: 50px;
+}
+.theme-dark .member-3W1lQa:hover .content-OzHfo4 {
+    background-color: rgba(0, 85, 255, 0.36);
+    color: rgb(234, 22, 22);
+}
