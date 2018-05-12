@@ -88,3 +88,16 @@ color: #f04747;
     background-color: rgba(114, 137, 218, 0.43);
     color: #e4dbdb;
 }
+.botTag-2WPJ74 {
+    -ms-flex-negative: 0;
+    border-radius: 3px;
+    display: inline-block;
+    flex-shrink: 0;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 13px;
+    margin-left: 6px;
+    padding: 1px 2px;
+    text-transform: uppercase;
+    vertical-align: top;
+}
