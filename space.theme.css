@@ -121,3 +121,7 @@ font-family: "monospace",Andale Mono,monospace;
     background-color: rgba(94, 178, 185, 0.46);
     color: #fff;
 }
+.message-group .emoji{
+ height: 80px;
+ width: 70px;
+}
