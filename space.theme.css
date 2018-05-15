@@ -113,3 +113,11 @@ color: #f04747;
 .theme-dark .userSettingsAccount-2eMFVR .viewBody-2Qz-jg{
 font-family: "monospace",Andale Mono,monospace;
 }
+.private-channels .channel:hover a {
+    background-color: rgba(94, 178, 185, 0.46);
+    color: #fff;
+}
+.private-channels .channel:hover a {
+    background-color: rgba(94, 178, 185, 0.46);
+    color: #fff;
+}
