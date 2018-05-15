@@ -125,3 +125,29 @@ font-family: "monospace",Andale Mono,monospace;
  height: 80px;
  width: 70px;
 }
+.contentSelectedText-3wUhMi {
+    background-color: rgba(46,138,195,.6);
+}
+.contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active {
+ background-color: rgba(94, 178, 185, 0.46);
+}
+.gameIcon-_0rmMm{
+display:none
+}
+.container-2zArDx{
+background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUz7rsst-s9eclxokA-RcWtqqcyaSGrvpkB70GOhA5snldVcxcqg);
+-webkit-filter: brightness(70%) !important;
+background-repeat:none;
+background-size: cover;
+background-position: center;
+}
+.theme-dark .content-8biNdB p, .theme-dark .content-8biNdB ul li {
+    color: #24bf3f;
+}
+.content-8biNdB a {
+    -webkit-transition: .05s;
+    color: #e4df0a;
+    text-decoration: none;
+    transition: .05s;
+}
+
