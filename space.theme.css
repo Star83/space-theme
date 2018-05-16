@@ -236,3 +236,7 @@ background-position: center;
     min-width: 84px;
     padding: 0!important;
 }
+.checkbox .checkbox-inner input[type=checkbox]:checked+span {
+    background-color: #da7272;
+    border-color: #da7272;
+}
