@@ -265,7 +265,7 @@ background: linear-gradient(to left, transparent,
     border-radius: 3px;
 }
 .unread-1Dp-OI {
-    background-color: rgba(0, 255, 139, 0.64);
+    background-color: hsla(285, 85%, 46%, 0.6);
     border-radius: 0 6px 6px 0;
     height: 8px;
     left: 0;
@@ -299,4 +299,74 @@ background: linear-gradient(to left, transparent,
 }
 .ui-standard-sidebar-view #bd-customcss-attach-controls button:hover, .bd-detached-css-editor #bd-customcss-attach-controls button:hover {
     background: #d2ce24;
+}
+.content-column.default > div > div > div:nth-child(2) > div > div[style="padding: 10px;"]:nth-child(1){
+  display:none!important;
+}
+.checkboxEnabled-CtinEn {
+    background: #a43858 !important;
+}
+.themeDefault-24hCdX.valueChecked-m-4IJZ {
+    background-color: #43b581;
+}
+.themeDefault-24hCdX {
+    background-color: #ff0000;
+}
+.guilds-wrapper .guilds .guild.unread:before {
+    background: rgba(239, 0, 119, 0.7);
+    border-radius: 5px;
+    height: 10px;
+    margin-top: -6px;
+}
+.theme-dark .messagesPopoutWrap-1MQ1bW {
+    background-color: #6d8dde;
+    border: 1px solid rgba(66, 136, 197, 0.6);
+  
+}
+.theme-dark .card-FDVird:before {
+    background-color: rgba(40, 67, 165, 0.63);
+    border-color: rgba(43, 46, 50, 0);
+}
+.membersGroup-v9BXpm {
+    background: linear-gradient(to left, transparent,
+ rgba(223,18,232,0.4),
+ rgba(0,222,222,0));
+}
+a {
+    -webkit-transition: opacity .5s,color .5s;
+    color: #fa1a1a;
+    cursor: pointer;
+    text-decoration: none;
+    transition: opacity .5s,color .5s;
+}
+.guilds-wrapper .guilds .guild.selected:before {
+    -webkit-transition: height .25s ease-in-out,margin-top .25s ease-in-out;
+    background: #ef0c0c;
+    border-radius: 20px;
+    height: 40px;
+    margin-top: -20px;
+    transition: height .25s ease-in-out,margin-top .25s ease-in-out;
+}
+.bda-slist li {
+    background: rgba(80, 130, 206, 0.47);
+    border: 1px solid rgba(0, 102, 255, 0.47);
+    border-radius: 5px;
+    padding: 5px 7px;
+    max-height: 175px;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+.resultsGroup-r_nuzN{
+    background: linear-gradient(to left, transparent,
+ rgba(223,18,232,0.4),
+ rgba(0,222,222,0));
+}
+.search-results-wrap{
+background: linear-gradient(to left, transparent,
+ rgba(23,18,23,1),
+ rgba(200,91,107,1));
+}
+.header-QKLPzZ {
+    padding: 20px;
+    background-color: tomato;
 }
