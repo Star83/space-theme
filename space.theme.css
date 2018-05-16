@@ -1,5 +1,5 @@
 //META{"name":"space theme","description":"let's go to space","author":"Reuben","version":"1.0"}*//{}
-	:root{
+		:root{
 	    --background-image: url(https://media.wired.com/photos/59268c5dcfe0d93c474309a2/master/w_2000,c_limit/BSP_054.jpg);
 	    --background-brightness: 0.6;}
 	.app {
@@ -405,4 +405,30 @@ background: linear-gradient(to left, transparent,
 #bd-settings-sidebar .ui-tab-bar-item.selected {
     color: #fff;
     background-color: #31d8a0;
+}
+.headerTag-2pZJzA {
+    color: #000000;
+}
+.headerName-fajvi9, .headerTagUsernameNoNickname-2_H881 {
+    color: #000000;
+}
+.chat .jump-to-present-bar button {
+    background: none;
+    color: #fff;
+    font-family: monospace;
+    line-height: 14px;
+    padding: 6px 10px;
+    text-align: left;
+    background: black;
+}
+.chat .jump-to-present-bar button:first-child {
+    -ms-flex: 1;
+    -webkit-box-flex: 1;
+    flex: 1;
+    font-size: 14px;
+    background: black;
+}
+.chat .jump-to-present-bar .spinner {
+    padding-right: 7px;
+    background: black;
 }
