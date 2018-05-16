@@ -1,5 +1,5 @@
 //META{"name":"space theme","description":"let's go to space","author":"Reuben","version":"1.0"}*//{}
-		:root{
+			:root{
 	    --background-image: url(https://media.wired.com/photos/59268c5dcfe0d93c474309a2/master/w_2000,c_limit/BSP_054.jpg);
 	    --background-brightness: 0.6;}
 	.app {
@@ -472,4 +472,34 @@ background: linear-gradient(to left, transparent,
     border-left: 4px solid #f04747;
     border-radius: 2px 0 0 2px;
     bottom: 0;
-} 
+}
+.lookFilled-1Gx00P.colorBrand-3pXr91:hover {
+    background-color: #faa61a;
+}
+.lookFilled-1Gx00P.colorBrand-3pXr91 {
+    background-color: #43b581;
+    color: #fff;
+}
+.bd-pfbtn {
+    background: rgba(47, 49, 54, 0);
+    color: #FFF;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.theme-dark .bar-2Qqk5Z {
+    background: #f04747;
+}
+.grabber-3mFHz2 {
+    -webkit-box-shadow: 0 3px 1px 0 rgba(0,0,0,.05), 0 2px 2px 0 rgba(0,0,0,.1), 0 3px 3px 0 rgba(0,0,0,.05);
+    background-color: #43b581;
+    border: 1px solid rgba(220, 221, 222, 0);
+    border-radius: 3px;
+    box-shadow: 0 3px 1px 0 rgba(0,0,0,.05), 0 2px 2px 0 rgba(0,0,0,.1), 0 3px 3px 0 rgba(0,0,0,.05);
+    cursor: ew-resize;
+    height: 24px;
+    left: 0;
+    margin-left: -5px;
+    margin-top: -13px;
+    top: 50%;
+    width: 10px;
+}
