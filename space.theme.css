@@ -1,5 +1,5 @@
 //META{"name":"space theme","description":"let's go to space","author":"Reuben","version":"1.0"}*//{}
-	:root{
+		:root{
 	    --background-image: url(https://media.wired.com/photos/59268c5dcfe0d93c474309a2/master/w_2000,c_limit/BSP_054.jpg);
 	    --background-brightness: 0.6;}
 	.app {
@@ -369,4 +369,32 @@ background: linear-gradient(to left, transparent,
 .header-QKLPzZ {
     padding: 20px;
     background-color: tomato;
+}
+.tabBarContainer-1s1u-z {
+    border-top: 1px solid hsla(0,0%,100%,.1);
+    padding-left: 20px;
+    background: tomato;
+}
+.theme-dark .footer-2yfCgX {
+    -webkit-box-shadow: inset 0 1px 0 rgba(47,49,54,.6);
+    background-color: rgba(0, 0, 0, 0);
+    box-shadow: inset 0 1px 0 rgba(47, 49, 54, 0.03);
+}
+.theme-dark .quickswitcher-3JagVE {
+    background-color: #5274ca;
+    color: #dcddde;
+}
+
+.headerTop-3C2Zn0{
+background: linear-gradient(to left, transparent,
+ rgba(255,251,23,1),
+ rgba(200,91,107,1));
+}
+.activity-11LB_k {
+    background-color: #faa61a;
+    padding: 10px;
+}
+.activity-1ythUs {
+    padding: 20px;
+    background: tomato;
 }
