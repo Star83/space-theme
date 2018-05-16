@@ -248,3 +248,52 @@ background: linear-gradient(to left, transparent,
     text-transform: uppercase;
     white-space: nowrap;
 }
+.content-region #bd-customcss-attach-controls, #bd-customcss-detach-container #bd-customcss-attach-controls {
+    background: rgba(61, 102, 154, 0.45);
+    color: #efe9e9;
+    border: 0;
+    box-shadow: 0 1px 0 0 rgba(47, 49, 41, 0) inset;
+}
+.ui-standard-sidebar-view #bd-customcss-attach-controls button, .bd-detached-css-editor #bd-customcss-attach-controls button {
+    margin: 0;
+    width: 100px;
+    background: rgba(204, 26, 26, 0.58);
+    color: #FFF;
+    height: 26px;
+    font-weight: 600;
+    margin-top: 5px;
+    border-radius: 3px;
+}
+.unread-1Dp-OI {
+    background-color: rgba(0, 255, 139, 0.64);
+    border-radius: 0 6px 6px 0;
+    height: 8px;
+    left: 0;
+    margin-top: -4px;
+    position: absolute;
+    top: 50%;
+    width: 4px;
+}
+.chat .new-messages-bar button {
+    background-color: rgba(193, 124, 41, 0.91);
+    color: #fff;
+    font-family: arial;
+    font-weight: 500;
+    line-height: 14px;
+    padding: 6px 10px;
+    text-align: left;
+}
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked {
+    background: #a43858 !important;
+}
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch {
+    background: #7289da;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: #125ee4;
+    border-radius: 14px;
+    transition: background .15s ease-in-out,box-shadow .15s ease-in-out,border .15s ease-in-out;
+}
