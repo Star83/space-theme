@@ -460,3 +460,16 @@ background: linear-gradient(to left, transparent,
 .theme-dark .friends-table .messages .divider.divider-red>span, .theme-dark .messages-wrapper .messages .divider.divider-red>span {
     color: #43b581;
 }
+    .mention {
+    -webkit-transition: background-color .05s,color .05s;
+    background: rgba(240, 71, 71, 0.05);
+    color: #f04747;
+    font-weight: 500;
+    transition: background-color .05s,color .05s;
+}  
+.message-group .mentioned .message-text:after {
+    background: #f04747;
+    border-left: 4px solid #f04747;
+    border-radius: 2px 0 0 2px;
+    bottom: 0;
+} 
