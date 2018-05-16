@@ -432,3 +432,12 @@ background: linear-gradient(to left, transparent,
     padding-right: 7px;
     background: black;
 }
+.role-2irmRk {
+    -webkit-box-sizing: border-box;
+    border: 1px solid;
+    border-radius: 1px;
+    box-sizing: content-box;
+    height: 22px;
+    margin: 0 4px 4px 0;
+    padding: 4px;
+}
