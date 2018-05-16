@@ -297,3 +297,6 @@ background: linear-gradient(to left, transparent,
     border-radius: 14px;
     transition: background .15s ease-in-out,box-shadow .15s ease-in-out,border .15s ease-in-out;
 }
+.ui-standard-sidebar-view #bd-customcss-attach-controls button:hover, .bd-detached-css-editor #bd-customcss-attach-controls button:hover {
+    background: #d2ce24;
+}
