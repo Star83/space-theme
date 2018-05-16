@@ -441,6 +441,22 @@ background: linear-gradient(to left, transparent,
     margin: 0 4px 4px 0;
     padding: 4px;
 }
-.theme-dark .message-group:not(.has-divider) {
-    border-bottom-color: rgba(114, 137, 218, 0.39);
+.theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action {
+    background-color: #4b71d2;
+}
+.guilds-wrapper .guilds-error:hover {
+    background-color: #faa61a;
+}
+.theme-dark .friends-table .messages .divider.divider-red>div, .theme-dark .messages-wrapper .messages .divider.divider-red>div {
+    background: #3a71c1;
+    opacity: .4;
+}
+.theme-dark .noChannel-Z1DQK7 {
+    background: transparent;
+}
+.theme-dark .friends-table .messages .divider:before, .theme-dark .friends-table .messages .divider span, .theme-dark .messages-wrapper .messages .divider:before, .theme-dark .messages-wrapper .messages .divider span {
+    background-color: #3a71c1;
+}
+.theme-dark .friends-table .messages .divider.divider-red>span, .theme-dark .messages-wrapper .messages .divider.divider-red>span {
+    color: #43b581;
 }
