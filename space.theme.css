@@ -151,3 +151,11 @@ background-position: center;
     transition: .05s;
 }
 
+.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
+    background-color: rgba(240, 71, 71, 0.04);
+    border-color: rgba(240, 71, 71, 0.04);
+}
+.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
+    background-color: rgba(40, 111, 214, 0.83);
+    border-color: rgba(40, 111, 214, 0.83)
+}
