@@ -1,7 +1,7 @@
 # space
 welcome to gco space world for discord
 =======================================
-discord- https://discord.gg/6fXRKyx
+discord- https://discord.gg/6fXRKyx [ if you have any problem with the theme]
 ------------------------------------------
 
 ```my theme ```
