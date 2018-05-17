@@ -1,5 +1,5 @@
 # space
-welcome to gco space world for discord
+forget earth let's go to space
 =======================================
 discord- https://discord.gg/6fXRKyx [ if you have any problem with the theme]
 ------------------------------------------
