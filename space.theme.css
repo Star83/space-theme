@@ -509,3 +509,8 @@ background: linear-gradient(to left, transparent,
     background: tomato;
 }
 .autocompleteInner-zh20B_ { padding-bottom: 8px; background: rgb(95, 158, 160); } .theme-dark .selectorSelected-1_M1WV { background-color: #43b581; }
+.search-bar.search-bar-light .search-bar-inner {
+    background-color: #43b581;
+    border: 1px solid transparent;
+    border-radius: 3px!important;
+}
