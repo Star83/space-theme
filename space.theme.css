@@ -540,3 +540,7 @@ background: linear-gradient(to left, transparent,
 .theme-dark #friends .tab-bar .tab-bar-item:hover:not(.selected) {
     background-color: #43b581;
 }
+.theme-dark #friends .tab-bar .tab-bar-item.selected {
+    background-color: #f04747;
+    color: #36393e;
+}
