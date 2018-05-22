@@ -527,3 +527,13 @@ background: linear-gradient(to left, transparent,
     margin-right: 10px;
     padding: 4px 8px;
 }
+.theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary {
+    background-color: #dacc72;
+    color: #fff;
+}
+.theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary:hover:not(.selected) {
+    background-color: #e41f1f;
+}
+.theme-dark #friends .tab-bar .tab-bar-item {
+    color: #3a71c1;
+}
