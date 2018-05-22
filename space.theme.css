@@ -514,3 +514,16 @@ background: linear-gradient(to left, transparent,
     border: 1px solid transparent;
     border-radius: 3px!important;
 }
+#friends .btn:hover {
+    background-color: #3a71c1;
+}
+#friends .btn {
+    background-color: rgba(114, 137, 218, 0);
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    margin-right: 10px;
+    padding: 4px 8px;
+}
