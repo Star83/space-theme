@@ -123,6 +123,10 @@ eb3bedf….css:1
     text-align: center;
     width: 50px;
 }
+.theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary.selected {
+    background-color: #3a71c1;
+    color: #7289da;
+}
 .tooltip.tooltip-red {
     background-color: #43b581;
     color: #f5f5f5;
