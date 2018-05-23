@@ -56,6 +56,15 @@
 .headerTop-3C2Zn0 {
     padding: 20px 10px;
 }
+.theme-dark .messagesPopoutWrap-1MQ1bW .header-ykumBX {
+    -webkit-box-shadow: 0 2px 3px 0 rgba(0,0,0,20%);
+    background-color: rgba(53, 57, 62, 0);
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,.2);
+}
+.search .DraftEditor-root .public-DraftStyleDefault-block span {
+    min-width: 1px;
+    background-color: rgba(67, 181, 129, 0.95);
+}
 .guilds-wrapper .guilds-error {
     -webkit-box-sizing: border-box;
     background: rgba(65, 51, 56, 0);
