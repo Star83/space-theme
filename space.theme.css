@@ -53,6 +53,11 @@
     background-color: rgba(0, 85, 255, 0.36);
     color: rgb(234, 22, 22);
 }
+.theme-dark .search-results-wrap .search-header {
+    -webkit-box-shadow: 0 1px 0 rgba(0,0,0,20%);
+    background-color: rgba(47, 49, 54, 0);
+    box-shadow: 0 1px 0 rgba(0,0,0,.2);
+}
 .headerTop-3C2Zn0 {
     padding: 20px 10px;
 }
@@ -64,6 +69,10 @@
 .search .DraftEditor-root .public-DraftStyleDefault-block span {
     min-width: 1px;
     background-color: rgba(67, 181, 129, 0.95);
+}
+.theme-dark .accountBtnInner-sj5jLs {
+    background-color: rgba(54, 57, 63, 0);
+    border-color: #202225;
 }
 .guilds-wrapper .guilds-error {
     -webkit-box-sizing: border-box;
@@ -285,6 +294,18 @@ background: linear-gradient(to left, transparent,
     position: absolute;
     top: 50%;
     width: 4px;
+}
+#bda-qem button.active {
+    background-color: #f90000;
+}
+.emojiPicker-3m1S-j { -ms-flex-direction: column; -webkit-box-direction: normal; -webkit-box-orient: vertical; -webkit-box-shadow: 0 0 6px 0 rgba(0,0,0,.1); background-color: #43b581; border: 1px solid hsla(0,0%,75%,.2); border-radius: 5px; box-shadow: 0 0 6px 0 rgba(0,0,0,.1); display: -webkit-box; display: -ms-flexbox; display: flex; flex-direction: column; overflow: hidden; }
+.emojiPicker-3m1S-j .header-1nkwgG .search-bar { -ms-flex: 1; -webkit-box-flex: 1; flex: 1; padding: 12px; background-color: #43b581; }
+.emojiPicker-3m1S-j .category-2U57w6 { color: #ffffff; font-size: 12px; font-weight: 500; height: 32px; line-height: 32px; padding: 0 4px; text-transform: uppercase; background-color: #43b581; }
+#bda-qem button {
+    border-left: 1px solid #ff0000;
+    background: rgb(255, 0, 0);
+    box-shadow: #cecece 1px 0 0 0;
+    flex-grow: 1;
 }
 .chat .new-messages-bar button {
     background-color: rgba(193, 124, 41, 0.91);
