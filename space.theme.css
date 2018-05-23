@@ -66,6 +66,10 @@
 .headerTop-3C2Zn0 {
     padding: 20px 10px;
 }
+.theme-dark .tipsWithoutResults-lGY-De, .theme-dark .tipsWithResults-HhTE9b {
+    border-color: rgba(79,84,92,.3);
+    color: #00ff8b;
+}
 .theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary.selected {
     background-color: #fff;
     color: #7289da;
