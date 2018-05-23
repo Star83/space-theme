@@ -39,6 +39,8 @@
     max-width: 600px;
     text-transform: uppercase;
 }
+.theme-dark .quickMessage-1yeL4E { background-color: rgba(54, 57, 63, 0); border-color: #23262a; color: #ffffff; }.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 { background: linear-gradient(to left, transparent, rgba(255,251,23,1), rgba(200,91,107,1)); color: #000000; }
+.theme-dark .body-3ND3kc { background-color: tomato; }.theme-dark .primary-jw0I4K { color: #f04747; }
 .guilds-wrapper .guilds .friends-icon {
     background-image: url(https://cdn.dribbble.com/users/450343/screenshots/1502658/rocket-ship.gif);
     background-position: 50%;
