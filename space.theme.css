@@ -66,6 +66,15 @@
 .headerTop-3C2Zn0 {
     padding: 20px 10px;
 }
+.theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary.selected {
+    background-color: #fff;
+    color: #7289da;
+}
+eb3bedf….css:1
+.theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary {
+    background-color: #43b581;
+    color: #fff;
+}
 #bda-qem-twitch-container, #bda-qem-favourite-container {
     width: 346px;
     height: 327px;
