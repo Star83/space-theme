@@ -61,6 +61,12 @@
 .headerTop-3C2Zn0 {
     padding: 20px 10px;
 }
+#bda-qem-twitch-container, #bda-qem-favourite-container {
+    width: 346px;
+    height: 327px;
+    background-color: #43b581;
+    border-radius: 0 0 5px 5px;
+}
 .theme-dark .messagesPopoutWrap-1MQ1bW .header-ykumBX {
     -webkit-box-shadow: 0 2px 3px 0 rgba(0,0,0,20%);
     background-color: rgba(53, 57, 62, 0);
