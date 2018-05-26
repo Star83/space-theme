@@ -47,6 +47,15 @@
     background: rgba(0, 0, 0, 0);
     color: #fff;
 }
+.uploadModal-2ifh8j .inner-3nWsbo {
+    -ms-flex: 1;
+    -webkit-box-flex: 1;
+    border: 2px dashed rgba(170, 184, 232, 0);
+    border-radius: 10px 10px 0 0;
+    color: #fff;
+    flex: 1;
+    margin: 10px;
+}
 .badge {
     -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0), inset 0 1px 0 hsla(0,0%,100%,.15);
     background-clip: padding-box;
