@@ -39,6 +39,10 @@
     max-width: 600px;
     text-transform: uppercase;
 }
+.botTagInvert-18-95s {
+    background: rgba(250, 166, 26, 0);
+    color: #000000;
+}
 .theme-dark .search-results-wrap .search-result:after {
     background-image: -webkit-gradient(linear,left top,left bottom,from(rgba(47,49,54,0)),to(rgba(47, 49, 54, 0)));
     background-image: linear-gradient(180deg,rgba(47,49,54,0),rgba(47, 49, 54, 0));
