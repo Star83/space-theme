@@ -145,7 +145,7 @@
     background-color: #43b581;
     color: #fff;
 }
-.bda-dark  #bda-qem-twitch-container, #bda-qem-favourite-container {
+.#bda-qem-twitch-container, #bda-qem-favourite-container {
     width: 346px;
     height: 327px;
     background-color: #43b581;
@@ -417,8 +417,14 @@ background: linear-gradient(to left, transparent,
 .bda-dark  #bda-qem button.active {
     background-color: #f90000;
 }
-.bda-dark #bda-qem button:hover {
+.bda-dark  #bda-qem button:hover {
     background: #f04747;
+}
+.bda-dark #bda-qem button {
+    border-left: 1px solid rgba(240, 71, 71, 0);
+    background: #f04747;
+    box-shadow: rgba(206, 206, 206, 0) 1px 0 0 0;
+    flex-grow: 1;
 }
 .bda-dark .emojiPicker-3m1S-j { -ms-flex-direction: column; -webkit-box-direction: normal; -webkit-box-orient: vertical; -webkit-box-shadow: 0 0 6px 0 rgba(0,0,0,.1); background-color: #43b581; border: 1px solid hsla(0,0%,75%,.2); border-radius: 5px; box-shadow: 0 0 6px 0 rgba(0,0,0,.1); display: -webkit-box; display: -ms-flexbox; display: flex; flex-direction: column; overflow: hidden; }
 .bda-dark .emojiPicker-3m1S-j .header-1nkwgG .search-bar { -ms-flex: 1; -webkit-box-flex: 1; flex: 1; padding: 12px; background-color: #43b581; }
