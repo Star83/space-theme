@@ -56,6 +56,10 @@
     flex: 1;
     margin: 10px;
 }
+.theme-dark .item-1GzJrl:hover {
+    background-color: #3ba775;
+    color: #fff;
+}
 .message-group .sink-interactions.clickable {
     cursor: pointer;
     background-color: rgba(240, 71, 71, 0.24);
