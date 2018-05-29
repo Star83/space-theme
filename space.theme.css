@@ -145,7 +145,7 @@
     background-color: #43b581;
     color: #fff;
 }
-#bda-qem-twitch-container, #bda-qem-favourite-container {
+.bda-dark #bda-qem-twitch-container, #bda-qem-favourite-container {
     width: 346px;
     height: 327px;
     background-color: #43b581;
