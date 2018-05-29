@@ -132,6 +132,12 @@
     background-color: #fff;
     color: #7289da;
 }
+.icon-JJBzjE {
+    -ms-flex-item-align: center;
+    align-self: center;
+    min-width: 16px;
+    color: #ff0000;
+}
 .theme-dark .emptyStateNote-ZYTetQ {
     color: #00ff8b;
 }
