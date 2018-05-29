@@ -227,6 +227,32 @@ color: #f04747;
     background-color: rgba(114, 137, 218, 0.43);
     color: #e4dbdb;
 }
+/* Track Piece for Twitch Emote Picker */
+.bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar, 
+.bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-track, 
+.bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-track-piece, 
+.bda-dark #pubs-container .scroller::-webkit-scrollbar, 
+.bda-dark #pubs-container .scroller::-webkit-scrollbar-track, 
+.bda-dark #pubs-container .scroller::-webkit-scrollbar-track-piece {
+    background-color: #303030 !important;
+    border-color: #303030 !important;
+}
+/* Scrollbar Thumb for all Emote Pickers */
+.bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-thumb,
+.bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-thumb,
+.bda-dark .emoji-picker .scroller::-webkit-scrollbar-thumb,
+.bda-dark emojiPicker-3g68GS .scroller-3vODG7::-webkit-scrollbar-thumb,
+.bda-dark #pubs-container .scroller::-webkit-scrollbar-thumb {
+    border-color: #202020 !important;
+    background-color: #202020 !important;
+}
+/* Scrollbar Track Piece for Favorites Emote Picker */
+.bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar, 
+.bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-track, 
+.bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-track-piece {
+    background-color: #303030 !important;
+    border-color: #303030 !important;
+}
 .botTag-2WPJ74 {
     -ms-flex-negative: 0;
     border-radius: 1px;
