@@ -78,6 +78,9 @@
     padding: 3px 6px;
     text-shadow: 0 1px 0 rgba(0,0,0,.25);
 }
+.theme-dark .select-2TCrqx .Select-option.is-focused, .theme-dark .select-2TCrqx .Select-option:hover {
+    background: #faa61a;
+}
 .theme-dark .search-results-wrap .search-result:after {
     background-image: -webkit-gradient(linear,left top,left bottom,from(rgba(47,49,54,0)),to(rgba(47, 49, 54, 0)));
     background-image: linear-gradient(180deg,rgba(47,49,54,0),rgba(47, 49, 54, 0));
