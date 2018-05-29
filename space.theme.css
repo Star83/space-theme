@@ -171,6 +171,12 @@
     background-color: rgba(54, 57, 63, 0);
     border-color: #202225;
 }
+.theme-dark .select-2TCrqx .Select-menu-outer {
+    -webkit-box-shadow: 0 1px 5px 0 rgba(0,0,0,.3);
+    background: #f6f6f7;
+    border-color: rgba(32, 34, 37, 0);
+    box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0);
+}
 .guilds-wrapper .guilds-error {
     -webkit-box-sizing: border-box;
     background: rgba(65, 51, 56, 0);
