@@ -22,7 +22,7 @@ patreon will get a role on my server not only that they will get the role in my 
 
  ![screenshot_2](https://user-images.githubusercontent.com/31587917/40572623-3607c7be-60ce-11e8-8d83-5f4de4870909.png)
 
-like that
+like that 
 
 ------------------------------
 GCO
