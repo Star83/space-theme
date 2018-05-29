@@ -101,10 +101,7 @@
     background-color: rgba(47, 49, 54, 0);
     box-shadow: 0 1px 0 rgba(0,0,0,.2);
 }
-.theme-dark .menu-Sp6bN1 {
-    -webkit-box-shadow: 0 0 1px rgba(0,0,0,.82), 0 1px 4px rgba(0,0,0,.1);
-    background: #3a71c1;
-    box-shadow: 0 0 1px rgba(0, 0, 0, 0), 0 1px 4px rgba(0,0,0,.1);
+.theme-dark .menu-Sp6bN1 { -webkit-box-shadow: 0 0 1px rgba(0,0,0,.82), 0 1px 4px rgba(0,0,0,.1); background: #3b506d; box-shadow: 0 0 1px rgba(0,0,0,.82), 0 1px 4px rgba(0,0,0,.1);
 }
 .theme-dark .search-results-wrap .search-result:before {
     background-image: -webkit-gradient(linear,left bottom,left top,from(rgba(47,49,54,0)),to(rgba(255, 255, 255, 0)));
