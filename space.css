@@ -44,6 +44,29 @@
     background: rgba(0, 0, 0, 0);
     color: #fff;
 }
+.paginationItem-3-MBTL:after {
+    background: -webkit-gradient(linear,right top,left top,from(transparent),to(rgba(32, 34, 37, 0)));
+    background: linear-gradient(270deg,transparent 0,rgba(32, 34, 37, 0));
+    background-blend-mode: color;
+    border-radius: 5px;
+    bottom: 0;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.theme-dark .header-1RC2Wb:hover {
+    background-color: #00b0f4;
+}
+.theme-dark .headerText-2niCs_ {
+    border-top-color: rgba(47, 49, 54, 0);
+    color: #dcddde;
+}
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {
+    background-color: #00b0f4;
+    color: #060606;
+}
 .uploadModal-2ifh8j .inner-3nWsbo {
     -ms-flex: 1;
     -webkit-box-flex: 1;
