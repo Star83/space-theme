@@ -61,6 +61,21 @@
     cursor: pointer;
     background-color: rgba(240, 71, 71, 0.24);
 }
+.article-FleDq5 {
+    -webkit-box-sizing: border-box;
+    background-color: rgba(32, 34, 37, 0);
+    border-radius: 5px;
+    bottom: 0;
+    box-sizing: border-box;
+    height: 100%;
+    left: 0;
+    overflow: hidden;
+    padding: 20px;
+    position: relative;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
 .badge {
     -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0), inset 0 1px 0 hsla(0,0%,100%,.15);
     background-clip: padding-box;
