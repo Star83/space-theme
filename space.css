@@ -1,7 +1,4 @@
-//META{"name":"space theme","description":"let's go to space","author":"Reuben","version":"1.0"}*//{}
-		:root{
-	    --background-image: url(https://media.wired.com/photos/59268c5dcfe0d93c474309a2/master/w_2000,c_limit/BSP_054.jpg);
-	    --background-brightness: 0.6;}
+
 	.app {
 	background: var(--background-image);background-position-y: -300px;;background-size: cover;}
 	.ui-standard-sidebar-view .sidebar-region {background: rgba(0,0,0,0) !important;}
