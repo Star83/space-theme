@@ -124,11 +124,14 @@
 .theme-dark .body-3ND3kc { background-color: tomato; }.theme-dark .primary-jw0I4K { color: #f04747; }
 .guilds-wrapper .guilds .home-icon {
     background-image: url(https://cdn.dribbble.com/users/450343/screenshots/1502658/rocket-ship.gif);
-    background-position: 50%;
+   background-position: center;
     background-repeat: no-repeat;
     background-size: 50px 50px;
     height: 50px;
     width: 50px;
+    background-color: transparent !important;
+    z-index: 10;
+    color: transparent !important;
 }
 .theme-dark .member-3W1lQa:hover .content-OzHfo4 {
     background-color: rgba(0, 85, 255, 0.36);
