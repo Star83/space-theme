@@ -1,5 +1,5 @@
 //META{"name":"space theme","description":"let's go to space","author":"Reuben","version":"1.0"}*//{}
-@import url(https://rawgit.com/gco360/space-theme/master/space.css);
+@import url(https://raw.githack.com/gco360/space-theme/master/space.css);
 		:root{
-	    --background-image: url(https://rawgit.com/gco360/space-theme/master/space.css);
+	    --background-image: url(https://fsmedia.imgix.net/e3/65/af/fe/f8db/4252/8dec/c3f9f06d72ee/lifeinspacejpeg.jpeg);
 	    --background-brightness: 0.6;}
